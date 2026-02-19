@@ -8,24 +8,12 @@
         <version>3.5.6</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.developersuraj</groupId>
-    <artifactId>RealTimeNotifications</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>RealTimeNotifications</name>
-    <description>RealTimeNotifications</description>
+    <groupId>com.realtime.notifications</groupId>
+    <artifactId>realtime-notifications</artifactId>
+    <version>1.0.0</version>
+    <name>Real-Time Notification System</name>
+    <description>Enterprise-grade real-time notification system using WebSocket</description>
     <url/>
-    <licenses>
-        <license/>
-    </licenses>
-    <developers>
-        <developer/>
-    </developers>
-    <scm>
-        <connection/>
-        <developerConnection/>
-        <tag/>
-        <url/>
-    </scm>
     <properties>
         <java.version>21</java.version>
     </properties>
